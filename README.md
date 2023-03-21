@@ -1,4 +1,4 @@
-# Computação Gráfica - Espiral quadrada 🌀
+# Computação Gráfica - Aspiral quadrada 🌀
 
 <f2 align = "left"> **O seguinte projeto possui o objetivo de construir uma aspiral quadrada por meio de conhecimentos com fractal e turtle.**</f2> 
 <img src="aspiral.gif" align="center"/>
